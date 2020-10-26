@@ -397,50 +397,6 @@
         ],
         "observador": false,
         "ativo": true
-      },
-      {
-        "cod_membro": "142453",
-        "nome": "Tadeu",
-        "cargo": "Técnico Agrícola",
-        "entidade": "Emater",
-        "email": [
-          "",
-          ""
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 3429-1165",
-            "ramal": null
-          },
-          {
-            "numero": "(44) 9117-4686",
-            "ramal": null
-          }
-        ],
-        "observador": false,
-        "ativo": true
-      },
-      {
-        "cod_membro": "145463",
-        "nome": "TELMA REGINA DE BARROS CORAL",
-        "cargo": "DIRETORA",
-        "entidade": "CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL ANJO DA GUARDA",
-        "email": [
-          "telmacoral@hotmail.com",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(44)99124-5954",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
       }
     ],
     "reunioes": [
@@ -455,9 +411,7 @@
         "participantes": [
           "145428",
           "145438",
-          "145444",
-          "145463",
-          "145468"
+          "145444"
         ]
       }
     ]
