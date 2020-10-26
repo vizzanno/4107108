@@ -21,249 +21,131 @@
       "2020"
     ],
     "valores": [
-      85626,
-      87806,
-      90128,
-      95003,
-      97701,
-      100378,
-      107285,
-      109705,
-      114250,
-      116418,
-      118964,
-      120948,
-      122865,
-      124940,
-      126742,
-      130439,
-      132400,
-      134293
+      5911,
+      5782,
+      5635,
+      5327,
+      5156,
+      4987,
+      5713,
+      5668,
+      5472,
+      5428,
+      5540,
+      5501,
+      5463,
+      5425,
+      5389,
+      5146,
+      5087,
+      5030
     ],
     "faixas": [
-      2.8,
-      2.8,
-      2.8,
-      3,
-      3,
-      3,
-      3.2,
-      3.2,
-      3.2,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.6,
-      3.6,
-      3.6
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6
     ]
   },
   "risco": {
     "ano": 2020,
-    "valorAnterior": 129048,
-    "faixa": 3.6,
-    "valor": 134293,
-    "valorPosterior": 142633,
-    "dif": 5245,
-    "tendencia": "descer"
+    "valorAnterior": "-",
+    "faixa": 0.6,
+    "valor": 5030,
+    "valorPosterior": 10189,
+    "dif": 5159,
+    "tendencia": "subir"
   },
-  "setores": {
-    "tipo": [
-      {
-        "distrito": "05",
-        "total": "235",
-        "cod": "0",
-        "desc": "Não especial"
+  "censos": {
+    "pop_residente": {
+      "2000": {
+        "Total": 6099,
+        "Homens": 3054,
+        "Mulheres": 3045,
+        "Urbana": 4612,
+        "Rural": 1487
       },
-      {
-        "distrito": "05",
-        "total": "54",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "05",
-        "total": "2",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "08",
-        "total": "65",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "08",
-        "total": "7",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "08",
-        "total": "1",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "10",
-        "total": "33",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "10",
-        "total": "8",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "10",
-        "total": "1",
-        "cod": "9",
-        "desc": "Comunidade quilombola"
-      },
-      {
-        "distrito": "12",
-        "total": "45",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "12",
-        "total": "1",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "15",
-        "total": "49",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "15",
-        "total": "13",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "15",
-        "total": "1",
-        "cod": "9",
-        "desc": "Comunidade quilombola"
+      "2010": {
+        "Total": 5516,
+        "Homens": 2730,
+        "Mulheres": 2786,
+        "Urbana": 4551,
+        "Rural": 965
       }
-    ],
-    "situacao": [
-      {
-        "distrito": "05",
-        "total": "270",
-        "cod": "1",
-        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
-      },
-      {
-        "distrito": "05",
-        "total": "18",
-        "cod": "2",
-        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
-      },
-      {
-        "distrito": "05",
-        "total": "2",
-        "cod": "8",
-        "desc": "Situação rural - Área rural"
-      },
-      {
-        "distrito": "05",
-        "total": "1",
-        "cod": "9",
-        "desc": "Massa de água"
-      }
-    ]
+    }
   },
   "repac": {
     "participantes": [
       {
-        "cod_membro": "133039",
-        "nome": "ADãO VIEIRA DOS SANTOS",
-        "cargo": "Vereador",
-        "entidade": "Câmara Municipal de Vereadores",
+        "cod_membro": "142607",
+        "nome": "Ademir Natalino Ronchi",
+        "cargo": "Presidente",
+        "entidade": "Associação Dialeite",
         "email": [
-          "vereadorvidrinho@cmva.sc.gov.br",
-          null
+          "",
+          ""
         ],
         "telefone": [
           {
-            "numero": "(48)99930-6867",
-            "ramal": null
+            "numero": "(44) 99151-8093",
+            "ramal": ""
           },
           {
-            "numero": "(48)99955-8000",
-            "ramal": null
+            "numero": "",
+            "ramal": ""
           }
         ],
-        "observador": true,
+        "observador": false,
         "ativo": true
       },
       {
-        "cod_membro": "134551",
-        "nome": "ADRIANA PRATI",
-        "cargo": "Coordenadora",
-        "entidade": "Colegio Ethicos",
+        "cod_membro": "142521",
+        "nome": "Eduardo",
+        "cargo": "Gerente",
+        "entidade": "Copagra",
         "email": [
-          "colegioethicos@contato.net",
-          null
+          "",
+          ""
         ],
         "telefone": [
           {
-            "numero": "(48)3522-3424",
-            "ramal": null
+            "numero": "(44) 99162-4280",
+            "ramal": ""
           },
           {
-            "numero": null,
-            "ramal": null
+            "numero": "(44) 3429-1251",
+            "ramal": ""
           }
         ],
-        "observador": true,
-        "ativo": true
+        "observador": false,
+        "ativo": false
       },
       {
-        "cod_membro": "193033",
-        "nome": "ADRIANO DO CANTO FERNANDES",
-        "cargo": "Síndico",
-        "entidade": "Residencial Ed. Village",
+        "cod_membro": "145444",
+        "nome": "ELIEL DOS SANTOS CORREA",
+        "cargo": "VICE PREFEITO",
+        "entidade": "PREFEITURA MUNICIPAL",
         "email": [
-          "adrianodocantofernandes@gmail.com",
+          "5073.eliel@gmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)98844-8313",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "193099",
-        "nome": "ALDO ANGELONI",
-        "cargo": "Síndico",
-        "entidade": "Ed. Monte Carlo",
-        "email": [
-          "Só WhatsApp/celular",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(48)99628-1919",
+            "numero": "(44)99132-4432",
             "ramal": null
           },
           {
@@ -275,17 +157,17 @@
         "ativo": true
       },
       {
-        "cod_membro": "191962",
-        "nome": "ALEXANDRA PEREIRA",
-        "cargo": "Síndica",
-        "entidade": "Ed. Darolt",
+        "cod_membro": "145438",
+        "nome": "GRASIELE CARRILHO DA SILVA DE ARAUJO",
+        "cargo": "AUXILIAR ADMINISTRATIVO",
+        "entidade": "SECRETARIA MUNICIPAL DE SAÚDE",
         "email": [
-          "alexandrapereirasc@gmail.com",
+          "grasicarrilho@gmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99949-1866",
+            "numero": "(44)99177-4842",
             "ramal": null
           },
           {
@@ -297,17 +179,127 @@
         "ativo": true
       },
       {
-        "cod_membro": "191913",
-        "nome": "ALIDEN WILLAN",
-        "cargo": "Síndico",
-        "entidade": "Ed. Oasis",
+        "cod_membro": "142606",
+        "nome": "Helenilton Gonçalves de Alencar",
+        "cargo": "Vice-presidente",
+        "entidade": "Associação Dialeite",
         "email": [
-          "alidenwr@hotmail.com",
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99145-7495",
+            "ramal": ""
+          },
+          {
+            "numero": "",
+            "ramal": ""
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142519",
+        "nome": "JOãO LOURENçO DA SILVA",
+        "cargo": "Presidente",
+        "entidade": "Câmara Municipal de Diamante do Norte",
+        "email": [
+          "camara@cmdiamantedonorte.pr.gov.br",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99616-0254",
+            "numero": "(44) 99113-1292",
+            "ramal": null
+          },
+          {
+            "numero": "(44) 3429-1234",
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142608",
+        "nome": "José Aparecido de Sá",
+        "cargo": "Operador de máquina 1",
+        "entidade": "Prefeitura Municipal",
+        "email": [
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99146-0164",
+            "ramal": ""
+          },
+          {
+            "numero": "",
+            "ramal": ""
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142628",
+        "nome": "JOSé CARLOS SANTANA",
+        "cargo": "Assist. Admistrativo",
+        "entidade": "Prefeitura Municipal",
+        "email": [
+          "zecaprefdte2016@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99127-1001",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "145428",
+        "nome": "JOSÉ EDUARDO CONTE",
+        "cargo": "ENFERMEIRO",
+        "entidade": "SECRETARIA MUNICIPAL DE SAÚDE",
+        "email": [
+          "du_conte@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3429-1230",
+            "ramal": null
+          },
+          {
+            "numero": "(44)99119-4429",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "145456",
+        "nome": "JULIANO CERVANTES PEREIRA DOS SANTOS",
+        "cargo": "SECRETÁRIO ADMINISTRATIVO",
+        "entidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
+        "email": [
+          "administracao@diamantedonorte.pr.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3429-1319",
             "ramal": null
           },
           {
@@ -319,17 +311,127 @@
         "ativo": true
       },
       {
-        "cod_membro": "133967",
-        "nome": "ALIRIA COSTA",
-        "cargo": "Coordenadora",
-        "entidade": "CEI Cidade Encantada",
+        "cod_membro": "142627",
+        "nome": "Ketlen Aline Lima de Oliveira",
+        "cargo": "Estagiária",
+        "entidade": "CRAS",
         "email": [
-          "prof.aliriac@gmail.com",
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3429-2337",
+            "ramal": ""
+          },
+          {
+            "numero": "",
+            "ramal": ""
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "145468",
+        "nome": "LUZIA DA SILVA NAVARRO MARIANO",
+        "cargo": "SECRETÁRIA DE EDUCAÇÃO",
+        "entidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+        "email": [
+          "luprofdte@hotmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99632-5712",
+            "numero": "(44)99116-7515",
+            "ramal": null
+          },
+          {
+            "numero": "(44)3429-1752",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142518",
+        "nome": "Marcio Adriano Montemor",
+        "cargo": "secretário de agricultura",
+        "entidade": "Prefeitura Municipal de Diamante do Norte",
+        "email": [
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99125-5713",
+            "ramal": ""
+          },
+          {
+            "numero": "",
+            "ramal": ""
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142522",
+        "nome": "MARCOS PAULO",
+        "cargo": "Coordenador do Campus",
+        "entidade": "Universidade Estadual de Maringá",
+        "email": [
+          "sec-crn@uem.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3429-8000",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142453",
+        "nome": "Tadeu",
+        "cargo": "Técnico Agrícola",
+        "entidade": "Emater",
+        "email": [
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3429-1165",
+            "ramal": null
+          },
+          {
+            "numero": "(44) 9117-4686",
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "145463",
+        "nome": "TELMA REGINA DE BARROS CORAL",
+        "cargo": "DIRETORA",
+        "entidade": "CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL ANJO DA GUARDA",
+        "email": [
+          "telmacoral@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99124-5954",
             "ramal": null
           },
           {
@@ -340,94 +442,36 @@
         "observador": true,
         "ativo": true
       }
-    ],    
-    
+    ],
     "reunioes": [
       {
-        "data": "2020-02-12 14:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "768261",
-        "local": "Centro de Cultura da Câmara Municipal de Salvador",
+        "data": "2019-09-05 14:00:00",
+        "cod_subarea": "4127304200",
+        "siape_presidente": "1548479",
+        "local": "CÂMARA MUNICIPAL",
         "tipo": "primeira",
-        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
-        "status": "realizada",
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099",
-          "193033",
-          "134551",
-	        "133039"
-        ]
-      },
-      {
-        "data": "2020-02-04 11:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "2103806",
-        "local": "Teste",
-        "tipo": "estadual",
-        "complemento": "Teste",
-        "status": "realizada",
-        "participantes": [
-          "133967"
-        ]
-      },
-      {
-        "data": "2020-02-12 14:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "768261",
-        "local": "Centro de Cultura da Câmara Municipal de Salvador",
-        "tipo": "segunda",
-        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
-        "status": "realizada",
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099",
-          "193033",
-          "134551",
-	  "133039"
-        ]
-      },
-      {
-        "data": "2020-03-02 15:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "1356526",
-        "local": "Secretaria de Educação do Estado da Bahia",
-        "tipo": "extraordinaria",
         "complemento": "",
         "status": "realizada",
         "participantes": [
-          "133967",
-          "134551"
-        ]
-      },
-      {
-        "data": "2020-03-11 15:00:00",
-        "cod_subarea": "2927408213",
-        "siape_presidente": "2103806",
-        "local": "Pref. Bairro Liberdade \\ São Caetano",
-        "tipo": "local",
-        "complemento": "",
-        "status": "realizada",
-        "participantes": [
-          "191913",
-          "193099"
+          "145428",
+          "145438",
+          "145444",
+          "145463",
+          "145468"
         ]
       }
     ]
   },
   "info": {
-    "cod_mun": "3300209",
-    "nome_mun": "ARARUAMA",
-    "cod_agencia": "330070400",
-    "nome_agencia": "CABO FRIO",
-    "data": "2020-10-06 10:22:28",
+    "cod_mun": "4107108",
+    "nome_mun": "DIAMANTE DO NORTE",
+    "cod_agencia": "411840200",
+    "nome_agencia": "PARANAVAÍ",
+    "data": "2020-10-26 09:24:57",
     "fonte": [
       "SIDRA/IBGE",
-      "BDO/COC/IBGE"
+      "BDO/IBGE",
+      "SERVIÇO DADOS/IBGE"
     ]
   }
 }
